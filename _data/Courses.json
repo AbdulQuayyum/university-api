@@ -1,0 +1,66 @@
+[
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Computer Science",
+        "years": 4,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Electrical Engineering",
+        "years": 5,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Agricultral Science",
+        "years": 5,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Islamic and Religious Studies Education",
+        "years": 4,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Micro-Biology",
+        "years": 4,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Law",
+        "years": 4,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Mathematics",
+        "years": 4,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    },
+    {
+        "_id": "5d725a4a7b292f5f8ceff789",
+        "title": "Nursing",
+        "years": 6,
+        "HOD": "Prof. Jake Doe",
+        "university": "5d713995b721c3bb38c1f5d0",
+        "user": "5d7a514b5d2c12c7449be045"
+    }
+]
